@@ -1,0 +1,1546 @@
+{
+    "Afghanistan": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Andorra"
+        ]
+    },
+    "Albania": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Equatorial Guinea"
+        ]
+    },
+    "Algeria": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Brunei"
+        ]
+    },
+    "Andorra": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Angola": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Antigua and Barbuda": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Djibouti"
+        ]
+    },
+    "Argentina": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "United Kingdom"
+        ]
+    },
+    "Armenia": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Brunei"
+        ]
+    },
+    "Australia": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "France"
+        ]
+    },
+    "Austria": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Canada"
+        ]
+    },
+    "Azerbaijan": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Brunei"
+        ]
+    },
+    "Bahamas": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Bahrain": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Bangladesh": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Canada"
+        ]
+    },
+    "Barbados": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "United Kingdom"
+        ]
+    },
+    "Belarus": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Belgium": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Belize": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Benin": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Belize"
+        ]
+    },
+    "Bhutan": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Cambodia"
+        ]
+    },
+    "Bolivia": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "United Kingdom"
+        ]
+    },
+    "Bosnia and Herzegovina": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Brunei"
+        ]
+    },
+    "Botswana": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Brazil": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Brunei": {
+        "minkowski": [
+            "France"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Bulgaria": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Canada"
+        ]
+    },
+    "Burkina Faso": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Burma": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Eritrea"
+        ]
+    },
+    "Burundi": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Mongolia"
+        ]
+    },
+    "Cabo Verde": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Barbados"
+        ]
+    },
+    "Cambodia": {
+        "minkowski": [
+            "Mongolia"
+        ],
+        "manhattan": [
+            "Mongolia"
+        ]
+    },
+    "Cameroon": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Canada": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "United Kingdom"
+        ]
+    },
+    "Central African Republic": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Cambodia"
+        ]
+    },
+    "Chad": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Netherlands"
+        ]
+    },
+    "Chile": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "China": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Colombia": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "United Kingdom"
+        ]
+    },
+    "Comoros": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Canada"
+        ]
+    },
+    "Congo (Brazzaville)": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Barbados"
+        ]
+    },
+    "Congo (Kinshasa)": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Costa Rica": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Brunei"
+        ]
+    },
+    "Cote d'Ivoire": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Croatia": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Brunei"
+        ]
+    },
+    "Cuba": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Netherlands"
+        ]
+    },
+    "Cyprus": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Czechia": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Canada"
+        ]
+    },
+    "Denmark": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Diamond Princess": {
+        "minkowski": [
+            "Central African Republic"
+        ],
+        "manhattan": [
+            "Canada"
+        ]
+    },
+    "Djibouti": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Chad"
+        ]
+    },
+    "Dominica": {
+        "minkowski": [
+            "China"
+        ],
+        "manhattan": [
+            "China"
+        ]
+    },
+    "Dominican Republic": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Brunei"
+        ]
+    },
+    "Ecuador": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Egypt": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "United Kingdom"
+        ]
+    },
+    "El Salvador": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Equatorial Guinea": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Chad"
+        ]
+    },
+    "Eritrea": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Cambodia"
+        ]
+    },
+    "Estonia": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Eswatini": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Central African Republic"
+        ]
+    },
+    "Ethiopia": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Eritrea"
+        ]
+    },
+    "Fiji": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "France"
+        ]
+    },
+    "Finland": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "France": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "United Kingdom"
+        ]
+    },
+    "Gabon": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Gambia": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Georgia": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Eritrea"
+        ]
+    },
+    "Germany": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "United Kingdom"
+        ]
+    },
+    "Ghana": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Greece": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Belize"
+        ]
+    },
+    "Grenada": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Cambodia"
+        ]
+    },
+    "Guatemala": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Canada"
+        ]
+    },
+    "Guinea": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Chad"
+        ]
+    },
+    "Guinea-Bissau": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Comoros"
+        ]
+    },
+    "Guyana": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Haiti": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Antigua and Barbuda"
+        ]
+    },
+    "Holy See": {
+        "minkowski": [
+            "China"
+        ],
+        "manhattan": [
+            "China"
+        ]
+    },
+    "Honduras": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Brunei"
+        ]
+    },
+    "Hungary": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Canada"
+        ]
+    },
+    "Iceland": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "France"
+        ]
+    },
+    "India": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Indonesia": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Iran": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Canada"
+        ]
+    },
+    "Iraq": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Canada"
+        ]
+    },
+    "Ireland": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Brunei"
+        ]
+    },
+    "Israel": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Brunei"
+        ]
+    },
+    "Italy": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Comoros"
+        ]
+    },
+    "Jamaica": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Japan": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Jordan": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Brunei"
+        ]
+    },
+    "Kazakhstan": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Brunei"
+        ]
+    },
+    "Kenya": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Kiribati": {
+        "minkowski": [
+            "China"
+        ],
+        "manhattan": [
+            "China"
+        ]
+    },
+    "Korea, South": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Kosovo": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Equatorial Guinea"
+        ]
+    },
+    "Kuwait": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Benin"
+        ]
+    },
+    "Kyrgyzstan": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "France"
+        ]
+    },
+    "Laos": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Cambodia"
+        ]
+    },
+    "Latvia": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Canada"
+        ]
+    },
+    "Lebanon": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Andorra"
+        ]
+    },
+    "Lesotho": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Cambodia"
+        ]
+    },
+    "Liberia": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Barbados"
+        ]
+    },
+    "Libya": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Equatorial Guinea"
+        ]
+    },
+    "Liechtenstein": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Benin"
+        ]
+    },
+    "Lithuania": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Brunei"
+        ]
+    },
+    "Luxembourg": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "MS Zaandam": {
+        "minkowski": [
+            "Australia"
+        ],
+        "manhattan": [
+            "Netherlands"
+        ]
+    },
+    "Madagascar": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Central African Republic"
+        ]
+    },
+    "Malawi": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Malaysia": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Comoros"
+        ]
+    },
+    "Maldives": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Comoros"
+        ]
+    },
+    "Mali": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Malta": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Comoros"
+        ]
+    },
+    "Marshall Islands": {
+        "minkowski": [
+            "China"
+        ],
+        "manhattan": [
+            "China"
+        ]
+    },
+    "Mauritania": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Mauritius": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Mexico": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Micronesia": {
+        "minkowski": [
+            "China"
+        ],
+        "manhattan": [
+            "China"
+        ]
+    },
+    "Moldova": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Brunei"
+        ]
+    },
+    "Monaco": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Mongolia": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Cambodia"
+        ]
+    },
+    "Montenegro": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Morocco": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Mozambique": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Cambodia"
+        ]
+    },
+    "Namibia": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Eritrea"
+        ]
+    },
+    "Nepal": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Eritrea"
+        ]
+    },
+    "Netherlands": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Canada"
+        ]
+    },
+    "New Zealand": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Benin"
+        ]
+    },
+    "Nicaragua": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Netherlands"
+        ]
+    },
+    "Niger": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Nigeria": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "North Macedonia": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Andorra"
+        ]
+    },
+    "Norway": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Oman": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Pakistan": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Canada"
+        ]
+    },
+    "Panama": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Brunei"
+        ]
+    },
+    "Papua New Guinea": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Mongolia"
+        ]
+    },
+    "Paraguay": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Andorra"
+        ]
+    },
+    "Peru": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "United Kingdom"
+        ]
+    },
+    "Philippines": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Canada"
+        ]
+    },
+    "Poland": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Portugal": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Canada"
+        ]
+    },
+    "Qatar": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Romania": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Russia": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Canada"
+        ]
+    },
+    "Rwanda": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Cambodia"
+        ]
+    },
+    "Saint Kitts and Nevis": {
+        "minkowski": [
+            "China"
+        ],
+        "manhattan": [
+            "China"
+        ]
+    },
+    "Saint Lucia": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Eritrea"
+        ]
+    },
+    "Saint Vincent and the Grenadines": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Cambodia"
+        ]
+    },
+    "Samoa": {
+        "minkowski": [
+            "China"
+        ],
+        "manhattan": [
+            "China"
+        ]
+    },
+    "San Marino": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Sao Tome and Principe": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Mozambique"
+        ]
+    },
+    "Saudi Arabia": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Senegal": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Serbia": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Brunei"
+        ]
+    },
+    "Seychelles": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Cambodia"
+        ]
+    },
+    "Sierra Leone": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Chad"
+        ]
+    },
+    "Singapore": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "United Kingdom"
+        ]
+    },
+    "Slovakia": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Antigua and Barbuda"
+        ]
+    },
+    "Slovenia": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Brunei"
+        ]
+    },
+    "Solomon Islands": {
+        "minkowski": [
+            "China"
+        ],
+        "manhattan": [
+            "China"
+        ]
+    },
+    "Somalia": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "France"
+        ]
+    },
+    "South Africa": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Canada"
+        ]
+    },
+    "South Sudan": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Cambodia"
+        ]
+    },
+    "Spain": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Canada"
+        ]
+    },
+    "Sri Lanka": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Sudan": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Suriname": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Sweden": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Canada"
+        ]
+    },
+    "Switzerland": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Canada"
+        ]
+    },
+    "Syria": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Taiwan*": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Antigua and Barbuda"
+        ]
+    },
+    "Tajikistan": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Eritrea"
+        ]
+    },
+    "Tanzania": {
+        "minkowski": [
+            "Central African Republic"
+        ],
+        "manhattan": [
+            "Canada"
+        ]
+    },
+    "Thailand": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Barbados"
+        ]
+    },
+    "Timor-Leste": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Cambodia"
+        ]
+    },
+    "Togo": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Belize"
+        ]
+    },
+    "Trinidad and Tobago": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Barbados"
+        ]
+    },
+    "Tunisia": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Belize"
+        ]
+    },
+    "Turkey": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "US": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Uganda": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Cambodia"
+        ]
+    },
+    "Ukraine": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Antigua and Barbuda"
+        ]
+    },
+    "United Arab Emirates": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "United Kingdom": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Comoros"
+        ]
+    },
+    "Uruguay": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Uzbekistan": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Vanuatu": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Cambodia"
+        ]
+    },
+    "Venezuela": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Benin"
+        ]
+    },
+    "Vietnam": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Eritrea"
+        ]
+    },
+    "West Bank and Gaza": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Equatorial Guinea"
+        ]
+    },
+    "Yemen": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Comoros"
+        ]
+    },
+    "Zambia": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    },
+    "Zimbabwe": {
+        "minkowski": [
+            "Cambodia"
+        ],
+        "manhattan": [
+            "Australia"
+        ]
+    }
+}
