@@ -40,6 +40,7 @@ targets = []
 for val in np.unique(confirmed["Country/Region"]):
     df = data.filter_by_attribute(
         confirmed, "Country/Region", val)
+    print(val)
     cases, labels = data.get_cases_chronologically(df)
     features.append(cases)
     targets.append(labels)
